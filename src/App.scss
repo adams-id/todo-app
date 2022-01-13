@@ -1,0 +1,19 @@
+// css style goes here
+@import url("https://cdn.jsdelivr.net/npm/bulma@0.9.3/css/bulma.min.css");
+@import "constants/variables";
+
+html,
+body {
+    font-size: 10px;
+}
+
+a {
+    text-decoration: none;
+}
+.header {
+    min-height: 8vh;
+}
+
+.page-content {
+    height: 1fr;
+}
