@@ -1,5 +1,9 @@
 import React from "react";
 
+/**
+ * Footer Component
+ * @returns JSX Element
+ */
 export const FooterComponent = () => {
     return(
         <footer className="footer has-background-link-light has-text-link">
