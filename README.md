@@ -1,4 +1,4 @@
-__Renkap Frontend Developer Exercise__
+__Renkap Frontend Developer Exercise Solution__
 
 ___This project is using React 17.0 or Greater___
 
@@ -9,6 +9,10 @@ To install dependencies
 To run project locally
 
 ``` npm run local ```
+
+To run tests
+
+``` npm run test ```
 
 Create a todo list App
 
@@ -28,10 +32,3 @@ Bonus:
 
 * You can add unit tests with jest and react testing library
 
-Looking for:
-
-A nice presentation
-
-How well you work with existing structure
-
-Comments were required
